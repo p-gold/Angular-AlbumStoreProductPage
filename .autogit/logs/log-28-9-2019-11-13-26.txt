@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Oct 28 2019 11:13:26 GMT+0100 (WAT)
+------------------------------------------------------
+
+Modified files:
+* src/app/app.module.ts
+
+
+Created files:
+* src/app/services/product.service.spec.ts
+* src/app/services/product.service.ts
+
+
+Deleted files:
+
+
+Renamed files:
